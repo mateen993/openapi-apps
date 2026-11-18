@@ -11,7 +11,7 @@
 
 The app sends the key in the `X-IPGeolocation-API-Key` header, so it never appears in a request URL or in action results.
 
-A free key covers IP location. Domain lookups, IP security, abuse contact and ASN need a paid plan; without it they return HTTP 401 with a message that says so.
+A free key covers IP location. Domain lookups, the bulk lookups, IP security, abuse contact and ASN need a paid plan; without it they return HTTP 401 with a message that says so.
 
 ### Actions
 
